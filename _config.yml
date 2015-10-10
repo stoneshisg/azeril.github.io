@@ -2,7 +2,7 @@
 title: Stone's World
 header-img: "img/autumn2.jpg"
 tagline: "喵？"  
-description: “希望成为一个有趣的人”  
+description: "这些经历与感悟 定义了我的人生 现在分享给你"  
 baseurl: ""
 url: "http://stoneshi.net"  
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username: 2458174
-twitter_username: StoneShiNan  
-github_username: stoneshisg  
-facebook_username:stoneshinan  
-weibo_username: 1740082131  
-zhihu_username: shi-tou-78-30  
+douban_username:  2458174
+twitter_username: feat
+github_username: cnfeat
+facebook_username: 
+weibo_username: cnfeat 
+zhihu_username: feat
 
 # Build settings  
 # use Github Flavored Markdown !important  
