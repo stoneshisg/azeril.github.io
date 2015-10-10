@@ -1,16 +1,16 @@
 # Site settings
-title: Microdust
+title: Stone'w World
 header-img: "img/autumn2.jpg"
 tagline: "喵？"  
 description: "在遙遠的地方 一切虔誠終必相遇"  
 baseurl: ""
-url: "http://azeril.me"  
+url: "http://stoneshi.net"  
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: "StoneShi"
+  email: shinansn@gmail.com
+  bio: "想成为一个有趣的人"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
