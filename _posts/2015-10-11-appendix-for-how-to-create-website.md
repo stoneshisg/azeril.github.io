@@ -1,9 +1,9 @@
 ---
-layout:post
-title: 如何搭建自己的博客（补充）
-categories:[blog ]
-tags:[技术]
-description: 
+layout: post  
+title: 如何搭建博客（石头的补充）  
+categories: [技术流]  
+tags: [技术流,]  
+description: 「这篇文章是基于[这里](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)的补充文章。虽说是补充，但可能先阅读这篇文章会是更加正确的食用方法。希望可以帮大家理解原文中所一些步骤的**意义**，进而提高制作自己博客的**效率**。」   
 ---
 
 这篇文章是基于[这里](http://cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)的补充文章。虽说是补充，但可能先阅读这篇文章会是更加正确的食用方法。希望可以帮大家理解原文中所一些步骤的**意义**，进而提高制作自己博客的**效率**。
