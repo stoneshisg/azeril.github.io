@@ -1,4 +1,4 @@
-# Microdust 微尘
+# Stone's World
 
 This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
