@@ -6,7 +6,7 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="img/zero.png" align="center"></p>
+    <p><img src="http://i864.photobucket.com/albums/ab209/stoneshi/Web%20Admin/zero_zpscgkmm5jz.png" align="center"></p>
 </center>
 
 这是一个非常个人的小站
