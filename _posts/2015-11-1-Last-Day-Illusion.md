@@ -2,7 +2,7 @@
 layout: post  
 title: 错觉：生命最后的日子  
 categories: [post]  
-tags: [人情世故,]  
+tags: [人情世故,读后感]  
 description: 「上周看完了《告别之前》，一位ALS（渐冻人）患者在生命的最后一年里自传。」   
 ---
 上周看完了《告别之前》，一位ALS（渐冻人）患者在生命的最后一年里的自传。
